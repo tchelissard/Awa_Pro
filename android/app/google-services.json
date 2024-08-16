@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "822457566949",
+    "project_id": "awa-vtc-driver",
+    "storage_bucket": "awa-vtc-driver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822457566949:android:33468e194172d95bcaf60c",
+        "android_client_info": {
+          "package_name": "com.awavtc.awadriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822457566949-tneoqjbhbb7bomiuq8blpjqujnmadfri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.awavtc.awadriver",
+            "certificate_hash": "8a5cd7afa6e3bfd3b1c765110372579b2bee9eef"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvnXU6BWbqqnPsdzoMp4JP0nBaZvGlIJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822457566949-7jgg4ck2satvj4dp7lu73cgoo7u1cr95.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.awavtc.awauser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822457566949:android:9b8148eeafeb6fa2caf60c",
+        "android_client_info": {
+          "package_name": "com.awavtc.awauser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822457566949-e1e06jiu40nf69ohpvqje5m6d47uu4ue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.awavtc.awauser",
+            "certificate_hash": "8a5cd7afa6e3bfd3b1c765110372579b2bee9eef"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvnXU6BWbqqnPsdzoMp4JP0nBaZvGlIJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822457566949-7jgg4ck2satvj4dp7lu73cgoo7u1cr95.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.awavtc.awauser"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
